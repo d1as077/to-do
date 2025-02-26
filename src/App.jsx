@@ -7,7 +7,7 @@ import EditModal from './components/modal'
 import TodoItem from './components/todo-item'
 import { addTodo, removeTodo, toggleTodo } from './redux/todoSlice/index'
 
-import { FaPlus, FaMoon, FaSun } from 'react-icons/fa'
+import { FaPlus } from 'react-icons/fa'
 import { BiSearch } from 'react-icons/bi'
 
 const App = () => {
